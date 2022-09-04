@@ -1,2 +1,5 @@
-# wsdestroyer
-A consentual script that slowly overtime fills up your "Workspace" folder in your Exploit. Fun to mess around with!
+# Notice
+I'm **NOT** responsible for any storage issues that happens to your PC. You agreed to this, and can simply delete your workspace folder.
+
+# Text Here
+To be completed...
